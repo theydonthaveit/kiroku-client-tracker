@@ -1,0 +1,7 @@
+README.md
+setup.py
+client-tracker/__init__.py
+client_tracker.egg-info/PKG-INFO
+client_tracker.egg-info/SOURCES.txt
+client_tracker.egg-info/dependency_links.txt
+client_tracker.egg-info/top_level.txt
